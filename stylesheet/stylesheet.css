@@ -1,0 +1,389 @@
+body {
+    cursor: url('/images_pf/Skadisword_small.png') 4 4, auto;
+}
+
+a:hover {
+  cursor: url("/images_pf/Skadiclick.png"), pointer;
+}
+
+#body_dark {
+    background-color: rgb(24, 23, 23); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#body_light {
+    background-color: rgb(214, 214, 214);;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#divheader {
+    text-align: center; 
+    background-color: rgb(29, 28, 28); 
+    border-radius: 25px;
+    color: aqua;
+    width: 100%;
+    display: flex;
+}
+
+#divheader_light {
+    background-color: #f1f1f1; 
+    border-radius: 25px; 
+    text-align: center;
+    color: rgb(24, 67, 89);
+    width: 100%;
+    display: flex;
+}
+
+.dh1 {
+    width: 65%;
+    text-align: right;
+    margin-right: 20%;
+}
+
+.dh2 {
+    width: 15%;
+    text-align: left;
+}
+
+.changeimg {
+    width: 45px; 
+    text-align: right;
+}
+
+#maindiv {
+    width: 100%; 
+    display: flex;
+}
+
+#menudiv {
+    width: 25%; 
+    text-align: left; 
+    background-color: rgb(29, 28, 28); 
+    border-radius: 25px; 
+    text-align: center;
+}
+
+#menudiv_light {
+    width: 25%; 
+    text-align: left; 
+    background-color: #f1f1f1; 
+    border-radius: 25px; 
+    text-align: center;
+}
+
+.h3 {
+    color:aqua; 
+    text-decoration: underline;
+}
+
+.h3_light {
+    color: rgb(24, 67, 89);
+    text-decoration: underline;
+}
+
+#footerdiv {
+    text-align: center; 
+    background-color: rgb(29, 28, 28); 
+    border-radius: 25px;
+    width: 100%;
+    display: flex;
+}
+
+#footerdiv_light {
+    text-align: center; 
+    background-color: #f1f1f1; 
+    border-radius: 25px;
+    width: 100%;
+    display: flex;
+}
+
+.h4-1 {
+    color:aqua; 
+    text-decoration: none;
+}
+
+.h4-1_light {
+    color: rgb(24, 67, 89);
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#logo {
+    width: 55%; 
+    text-align: center
+}
+
+#menudiv2 {
+    width: 70%; 
+    text-align: center; 
+    background-color: rgb(29, 28, 28); 
+    border-radius: 25px; 
+    margin-left: 5%;
+}
+
+#menudiv2_light {
+    width: 70%; 
+    text-align: center; 
+    background-color: #f1f1f1; 
+    border-radius: 25px; 
+    margin-left: 5%;
+}
+
+.h4-2 {
+    color:aqua; 
+    text-decoration: underline;
+}
+
+.h4-2_light {
+    color: rgb(24, 67, 89);
+    text-decoration: underline;
+}
+
+.image {
+    width: 150px;
+    border-radius: 25px;
+    margin: 1%;
+}
+
+.h2 {
+    color:aqua; 
+    text-decoration: underline;
+}
+
+.h2_light {
+    color: rgb(24, 67, 89);
+    text-decoration: underline;
+}
+
+#fdiv1 {
+    width: 60%; 
+    text-align: center;
+}
+
+#h3f {
+    font-style: italic;
+    color: aqua;
+}
+
+#h3f_light {
+    font-style: italic;
+    color: rgb(24, 67, 89);    
+}
+
+#fdiv2 {
+    width: 40%; 
+    text-align: center;
+}
+
+.logof {
+    width: 35px;
+}
+
+#tgndiv {
+    text-align: center;
+    background-color: rgb(29, 28, 28); 
+    width: 100%;
+}
+
+#tgndiv_light {
+    text-align: center;
+    background-color: #f1f1f1; 
+    width: 100%;
+}
+
+.tgngif {
+    width: 60%;
+    border-radius: 25px;
+}
+
+#arkprofile {
+    width: 60%;
+    border-radius: 25px;
+}
+
+.arkbosses {
+    color:aqua;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.arkbosses_light {
+    color: rgb(24, 67, 89);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#bossmenu {
+    width: 100%;
+}
+
+.arkbosscontainer {
+    width: 20%;
+    margin-right: 5px;
+    display: inline-block
+}
+
+.arkbossesimg {
+    width: 50%;
+    text-align: center;
+    border-radius: 25px;
+}
+
+#menudiv_p {
+    width: 100%; 
+    background-color: rgb(29, 28, 28); 
+    border-radius: 25px; 
+    text-align: center;
+}
+
+#menudiv_p_light {
+    width: 100%; 
+    background-color: #f1f1f1; 
+    border-radius: 25px; 
+    text-align: center;
+}
+
+#profilefix_fuze { 
+    display: flex;
+}
+
+#fuzeprofile {
+    width: 25%;
+    text-align: center;
+}
+
+#fuzeprofile2 {
+    width: 70%;
+    text-align: left;
+}
+
+#fuzelogo {
+    border-radius: 25px;
+    width: 50%;
+}
+
+.fuzeprofile_text {
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+.fuzeprofile_text_light {
+    color: rgb(24, 67, 89);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+/*@media (max-width: 768px) {
+  body {
+    background-color: lightblue;
+  }
+} */
+
+.wiki-text-block {
+    padding: 0 20px;
+    text-align: justify;
+}
+
+#body_dark .wiki-text-block {
+    color: white;
+}
+
+#body_light .wiki-text-block {
+    color: rgb(24, 67, 89);
+}
+
+.wiki-desc-italic {
+    font-style: italic;
+    padding: 0 20px;
+}
+
+#body_dark .wiki-desc-italic {
+    color: white;
+}
+
+#body_light .wiki-desc-italic {
+    color: #444444;
+}
+
+.wiki-divider {
+    border-color: #333333;
+    width: 90%;
+}
+
+.wiki-combat-table, 
+.wiki-combat-table-skills {
+    width: 90%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+#body_dark .wiki-combat-table, 
+#body_dark .wiki-combat-table-skills {
+    border-color: gray;
+    color: white;
+}
+
+#body_light .wiki-combat-table, 
+#body_light .wiki-combat-table-skills {
+    border-color: #b5b5b5;
+    color: #222222;
+}
+
+.wiki-combat-table thead tr, 
+.wiki-combat-table-skills thead tr {
+    background-color: rgb(40, 38, 38);
+}
+
+#body_light .wiki-combat-table thead tr, 
+#body_light .wiki-combat-table-skills thead tr {
+    background-color: #e2e2e2;
+}
+
+.wiki-combat-table th, 
+.wiki-combat-table-skills th {
+    padding: 8px;
+}
+
+#body_dark .wiki-combat-table th, 
+#body_dark .wiki-combat-table-skills th {
+    color: aqua;
+}
+
+#body_light .wiki-combat-table th, 
+#body_light .wiki-combat-table-skills th {
+    color: rgb(24, 67, 89);
+}
+
+.wiki-combat-table td, 
+.wiki-combat-table-skills td {
+    padding: 8px;
+}
+
+.wiki-combat-table-skills thead th:first-child {
+    width: 30%;
+}
+
+.wiki-editor-note {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+    font-size: 14px;
+}
+
+#body_dark .wiki-editor-note {
+    background-color: rgb(40, 38, 38);
+    border-left: 4px solid aqua;
+    color: #b0bec5;
+}
+
+#body_light .wiki-editor-note {
+    background-color: #eaeaea;
+    border-left: 4px solid rgb(24, 67, 89);
+    color: #4b5563;
+}
